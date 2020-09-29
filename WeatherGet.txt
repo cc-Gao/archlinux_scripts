@@ -1,0 +1,10 @@
+id:WT7JXTC4NSMZ
+name:安庆
+country:CN
+path:安庆,安庆,安徽,中国
+timezone:Asia/Shanghai
+timezone_offset:+08:00
+text:阴
+code:9
+temperature:21
+last_update_time:2020-09-29T20:10:43+08:00
